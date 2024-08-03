@@ -6,4 +6,4 @@ From: https://telegram.org/js/telegram-web-app.js To: https://profeex.github.io/
 Правая кнопка --> Просмотреть код <br>
 Жмем Toggle device toolbar (см.скрин) <br>
 <img src="https://raw.githubusercontent.com/profeex/tgonpc/main/tgonpc.jpg" alt=""/> <br>
-После этого можно в браузере запустить любую игрушку, которая открывалась только с телефона.
+После этого можно в браузере запустить практически любую игрушку, которая открывалась только с телефона.
