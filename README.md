@@ -2,6 +2,7 @@
 Открыть настройки расширения и вписать следующие данные:<br>
 Tab URL: * <br>
 From: https://telegram.org/js/telegram-web-app.js To: https://profeex.github.io/tgonpc/telegram-web-app.js <br>
+Или второй скрипт: https://profeex.github.io/tgonpc/telegram-web-app2.js (если первый вариант не работает)<br>
 Открыть web telegram <br>
 Правая кнопка --> Просмотреть код <br>
 Жмем Toggle device toolbar (см.скрин) <br>
